@@ -1,0 +1,34 @@
+print ('inter deagre of student ')
+math=74
+prog=85
+physics=44
+if math <= 100 and math >=75:
+    print('math :A')
+elif math<75 and math>=50:
+    print ('math :B')
+elif math<50 and math>=25:
+    print ('math :C')
+elif math<25 and math>=5:
+    print ('math :D')
+else :
+    print('The student was not tested')
+if prog <= 100 and prog >=75:
+    print('prog :A')
+elif prog<75 and prog>=50:
+    print ('prog :B')
+elif prog<50 and prog>=25:
+    print ('prog :C')
+elif prog<25 and prog>=5:
+    print ('prog :D')
+else :
+    print('The student was not tested')
+if physics <= 100 and physics >=75:
+    print('physics :A')
+elif physics<75 and physics>=50:
+    print ('physics :B')
+elif physics<50 and physics>=25:
+    print ('physics :C')
+elif physics<25 and physics>=5:
+    print ('physics :D')
+else :
+    print('The student was not tested')
